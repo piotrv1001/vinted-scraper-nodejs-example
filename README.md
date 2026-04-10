@@ -2,6 +2,8 @@
 
 This example shows how to scrape Vinted listings in Node.js using the [Vinted Listings Scraper](https://apify.com/piotrv1001/vinted-listings-scraper) actor on Apify. No browser automation or reverse-engineering required — just call the actor via the Apify API client and get structured data back.
 
+![Vinted listings scraper results](vinted_results.png)
+
 ## What this example does
 
 - Calls the Vinted Listings Scraper actor with a search query and item limit
