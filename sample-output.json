@@ -1,0 +1,137 @@
+[
+  {
+    "id": 8483516504,
+    "title": "Nike Air Max 90 Essential white UK 9",
+    "url": "https://www.vinted.co.uk/items/8483516504-nike-air-max-90",
+    "price": 55.0,
+    "currency": "GBP",
+    "serviceFee": 3.45,
+    "totalPrice": 58.45,
+    "brandName": "Nike",
+    "size": "UK 9",
+    "condition": "Very good",
+    "isPromoted": false,
+    "favouriteCount": 12,
+    "viewCount": 134,
+    "photos": [
+      {
+        "url": "https://images1.vinted.net/t/01_00f3a_abc123_600_800/f800.jpg",
+        "fullSizeUrl": "https://images1.vinted.net/tc/01_00f3a_abc123/original.jpg",
+        "isMain": true,
+        "width": 600,
+        "height": 800
+      }
+    ],
+    "seller": {
+      "id": 184714746,
+      "username": "trainers_uk",
+      "profileUrl": "https://www.vinted.co.uk/member/184714746-trainers_uk",
+      "photoUrl": "https://images1.vinted.net/usr/184714746.jpg",
+      "isBusiness": false
+    },
+    "sellerDetails": {
+      "feedbackReputation": 0.97,
+      "positiveFeedbackCount": 63,
+      "negativeFeedbackCount": 2,
+      "itemCount": 41,
+      "followerCount": 8,
+      "country": "United Kingdom",
+      "city": "London",
+      "isOnHoliday": false,
+      "bio": "Fast dispatch, well packaged.",
+      "avgResponseTime": "< 1 hour"
+    },
+    "scrapedAt": "2026-03-26T08:00:00.000Z",
+    "domain": "vinted.co.uk"
+  },
+  {
+    "id": 7291048372,
+    "title": "Nike Air Max 270 React Black UK 10",
+    "url": "https://www.vinted.co.uk/items/7291048372-nike-air-max-270",
+    "price": 42.0,
+    "currency": "GBP",
+    "serviceFee": 2.95,
+    "totalPrice": 44.95,
+    "brandName": "Nike",
+    "size": "UK 10",
+    "condition": "Good",
+    "isPromoted": true,
+    "favouriteCount": 5,
+    "viewCount": 89,
+    "photos": [
+      {
+        "url": "https://images1.vinted.net/t/01_00b2c_def456_600_800/f800.jpg",
+        "fullSizeUrl": "https://images1.vinted.net/tc/01_00b2c_def456/original.jpg",
+        "isMain": true,
+        "width": 600,
+        "height": 800
+      }
+    ],
+    "seller": {
+      "id": 209438571,
+      "username": "sneaker_vault",
+      "profileUrl": "https://www.vinted.co.uk/member/209438571-sneaker_vault",
+      "photoUrl": "https://images1.vinted.net/usr/209438571.jpg",
+      "isBusiness": false
+    },
+    "sellerDetails": {
+      "feedbackReputation": 1.0,
+      "positiveFeedbackCount": 28,
+      "negativeFeedbackCount": 0,
+      "itemCount": 17,
+      "followerCount": 3,
+      "country": "United Kingdom",
+      "city": "Manchester",
+      "isOnHoliday": false,
+      "bio": "Selling unwanted items. All clean and smoke-free home.",
+      "avgResponseTime": "< 3 hours"
+    },
+    "scrapedAt": "2026-03-26T08:01:12.000Z",
+    "domain": "vinted.co.uk"
+  },
+  {
+    "id": 6104937821,
+    "title": "Nike Air Max 97 Silver Bullet UK 8",
+    "url": "https://www.vinted.co.uk/items/6104937821-nike-air-max-97",
+    "price": 70.0,
+    "currency": "GBP",
+    "serviceFee": 4.1,
+    "totalPrice": 74.1,
+    "brandName": "Nike",
+    "size": "UK 8",
+    "condition": "Satisfactory",
+    "isPromoted": false,
+    "favouriteCount": 31,
+    "viewCount": 412,
+    "photos": [
+      {
+        "url": "https://images1.vinted.net/t/01_00e9d_ghi789_600_800/f800.jpg",
+        "fullSizeUrl": "https://images1.vinted.net/tc/01_00e9d_ghi789/original.jpg",
+        "isMain": true,
+        "width": 600,
+        "height": 800
+      }
+    ],
+    "seller": {
+      "id": 173628401,
+      "username": "retrokicks_co",
+      "profileUrl": "https://www.vinted.co.uk/member/173628401-retrokicks_co",
+      "photoUrl": "https://images1.vinted.net/usr/173628401.jpg",
+      "isBusiness": true
+    },
+    "sellerDetails": {
+      "feedbackReputation": 0.95,
+      "positiveFeedbackCount": 142,
+      "negativeFeedbackCount": 7,
+      "itemCount": 203,
+      "followerCount": 56,
+      "country": "United Kingdom",
+      "city": "Birmingham",
+      "isOnHoliday": false,
+      "bio": "Specialist in vintage and retro Nike. DM for bundles.",
+      "avgResponseTime": "< 1 hour"
+    },
+    "scrapedAt": "2026-03-26T08:02:35.000Z",
+    "domain": "vinted.co.uk"
+  }
+]
